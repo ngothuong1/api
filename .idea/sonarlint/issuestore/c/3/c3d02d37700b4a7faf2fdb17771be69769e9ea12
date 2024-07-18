@@ -1,0 +1,30 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†Ëü²ùÿÿÿÿ8²Œ”¯‹2J$976cebe7-f2f2-4a2a-bff3-003ca640d1c5
+’
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(æÏ‚×8¶Œ”¯‹2J$ddf40247-94b9-4877-97be-19c473b3d87e
+‰
+java:S2095'"GUse try-with-resources or close this "Statement" in a "finally" clause.(ŽË†h8¶Œ”¯‹2J$fc74bf0a-abb3-4853-a5ba-46ce197687ae
+—
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ËÊ±¹ÿÿÿÿÿ8¶Œ”¯‹2J$5a13a9c4-160f-48f3-baf4-9e525d66a1c5
+‘
+java:S2095u"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ËÌ¥98¶Œ”¯‹2J$2ba7a556-bffd-4f56-a1c4-c311ee19e3c7
+‘
+java:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§öò¿8·Œ”¯‹2J$9eb1369d-159e-4b37-b725-ee7dad114618
+—
+java:S3008"ORename this field "USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½èÄçùÿÿÿÿ8·Œ”¯‹2J$696ea800-d6df-4b67-872b-d09b0c7deaff
+›
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÉýÆøÿÿÿÿ8·Œ”¯‹2J$1bf4e2b6-8320-4441-a13d-203761a898ab
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó¿Ëòúÿÿÿÿ8–ñ©¯‹2J$75043427-a7cf-430e-9bff-b458ea67b77a
+r	java:S106"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8»Œ”¯‹2J$2bc71c85-b73c-41bc-975a-fee709ad5e2d
+a
+java:S6905'"Don't use the query "SELECT *".(ŽË†h8½Œ”¯‹2J$6d7f274a-c6dc-445e-88f5-eb46d2313f45
+r	java:S1061"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8¾Œ”¯‹2J$e4beb7dc-b4ca-4914-9996-dc582e5ba837
+r	java:S106T"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8ÀŒ”¯‹2J$92622f5a-0ac0-425c-8996-ecd95574cc09
+r	java:S106z"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8ÃŒ”¯‹2J$8bfac754-f671-4bcd-bc75-b0d2b1c5a1d4
+„	java:S125„"<This block of commented-out lines of code should be removed.(§ð©çúÿÿÿÿ8ÅŒ”¯‹2J$3da9df14-ccc2-4e10-8f2d-3b32ce5a31f7
+n	java:S106Š"+Replace this use of System.out by a logger.(„íí8ÅŒ”¯‹2J$6178777e-30dc-4f74-82ec-e9ef99f19f70
+	java:S125"<This block of commented-out lines of code should be removed.(á‚íß8ÆŒ”¯‹2J$69b26fc7-e4db-4821-9736-777bd7982014
+s	java:S106¢"+Replace this use of System.out by a logger.(šºÕÏþÿÿÿÿ8ÇŒ”¯‹2J$735436b1-098e-4968-8f7f-41b22051f1d6
+s	java:S106¤"+Replace this use of System.out by a logger.(“æÍžþÿÿÿÿ8ÇŒ”¯‹2J$e6107e3a-98c7-4605-90f8-d91116ff246f
+	java:S125ª"<This block of commented-out lines of code should be removed.(“Û·ã8…—˜¯‹2J$c8cbb958-ae50-48a9-8163-de98557b45df
